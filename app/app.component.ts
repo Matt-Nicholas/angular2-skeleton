@@ -1,9 +1,11 @@
 import {Component } from '@angular/core';
 
 @Component({
-  selecto: 'my-app',
+  selector: 'my-app',
   template: `
-  <h1>My First Angular 2 App</h1>
+  <div class="container">
+    <h1>Dafunk!</h1>
+  </div>
   `
 })
 
